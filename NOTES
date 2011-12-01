@@ -1,0 +1,5 @@
+Dependencies:
+- PECL
+-- yum install pcre-devel or apt-get install libpcre3-dev
+- APD
+-- pecl install apd
